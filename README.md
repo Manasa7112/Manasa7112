@@ -1,16 +1,13 @@
-### Hi there 👋
+  Hey there! 👋
+  
+-👽I'm Manasa Gullapalli,
+  A zealous undergrad student pursuing engineering specialized in cloud computing, with the goal of learning and applying the skills I'm currently learning.
 
-<!--
-**Manasa7112/Manasa7112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning:
+        *WEBDEV
+        *CODING
+        *UI/UX
+        *DESIGNING
+        
+- 👯 I’m looking to collaborate on UI/UX and Webdev projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
